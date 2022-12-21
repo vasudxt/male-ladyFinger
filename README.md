@@ -1,4 +1,4 @@
-##Title
+# Title
 
 Student Assessment System
 
@@ -10,7 +10,7 @@ Objective: Student Assessment System to evaluate learners on periodic basis at e
 
 Scope:
 
-1) Student Assessment System helps to assist the enterprise i.e administrators,teachers,students and support staff, to reach their acacdemic and behavioral benchmarks and goals.                        maintain the academic performance of students and help to gauge them based on details.
+1) Student Assessment System helps to assist the enterprise i.e administrators,teachers,students and support staff, to reach their acacdemic and behavioral benchmarks and goals, maintain the academic performance of students and help to gauge them based on details.
 
 2) Admin will be able to review student records and it will help admin to take needful steps.
 
