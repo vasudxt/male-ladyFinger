@@ -80,22 +80,22 @@ Users:
 
 ## Non functional Requirements--
 
-1. Performance
+### 1. Performance
 The Student Assessment System shall be built upon the web development technique and put on the web server online. The system and the server must be capable of handling the real- time error functionality occurs by the defined users. In addition, the system must be safety critical. All failures reported by the server side must be handled instantaneously to allow for user and system safety.
 
-2. Reliability
+### 2. Reliability
 The system is safety critical. If it moves out of normal operation mode, the requirement to drop or down the server and fix it as soon as possible and open it again. This emergency behaviour shall not occur without reason.
 
-3. Availability
+### 3. Availability
 When in normal operating conditions, request by a user for an online system shall be handled within 1 second. Immediate feedback of the systems activities shall be communicated to the user by clearing the system and giving space n speed to their hospitality.
 
-4. Security
+### 4. Security
 There shall be a strong security mechanism should be place in the server side of the system to keep unwanted users to hack or damage the system. However, all users of the system give and store the details of privacy related to personal information and many other. However, our system can be accessed online so we need very secured system as far as security is concerned.
 
-5. Maintainability
+### 5. Maintainability
 There shall be design documents describing maintenance of the software and database used to save the user details as well as the daily updated and modification done in system. There shall be an access on the control system by the admin to maintained it properly at the front end as well as at back end.
 
-6. Portability
+### 6. Portability
 There is portability requirement as far as our system is concern because it is an online as well as offline (local server based) system so we can access it from anywhere through the internet connection. And we have to maintain the copy of stored data into our database.
 
 
