@@ -28,7 +28,7 @@ Student Assessment System to evaluate learners on periodic basis at every level 
 
 	There are 3 groups of users of system with different access rights:
 	
-	#### A)System Administrator:
+	A)System Administrator:
 	
 		i)Admin Login:
 		Description of feature:
@@ -42,7 +42,7 @@ Student Assessment System to evaluate learners on periodic basis at every level 
 		2. Notice, fee information detail and schedule detail are managed. 
 	
  
-	#### B)Staff:
+	B)Staff:
 
 		i)Staff Login:
 		Description of feature:
@@ -57,7 +57,7 @@ Student Assessment System to evaluate learners on periodic basis at every level 
 		3. Staff will resolve the queries asked by their mentees through helpdesk.
 
 
-	#### C)Student:
+	C)Student:
 		i)Student Login:
 		Description of feature:
 		This feature used by the student to login into system.
@@ -73,7 +73,7 @@ Student Assessment System to evaluate learners on periodic basis at every level 
 		4. Fee details- Can get details of fee structure.
 		5. Student help desk- This help desk staffed by their own mentor who are their to help students.	
 
-	#### D)Assessment System:
+	D)Assessment System:
 		
 		1. The primary function of the SAS is essentially to save the whole system information in sequentially into database server.
 		2. The admin will have access to whole system environment and that can be modified as per their needs.
