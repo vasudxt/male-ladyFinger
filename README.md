@@ -1,14 +1,16 @@
-# Title
+## Title
 
 Student Assessment System
 
-Team: Direct Customer,Indirect Customer,Architect,Business Analyst,Quality Assurance Team,System Analyst.
+## Team: 
+Direct Customer,Indirect Customer,Architect,Business Analyst,Quality Assurance Team,System Analyst.
 
 
-Objective: Student Assessment System to evaluate learners on periodic basis at every level and to mould the best out of them.	
+## Objective(Purpose): 
+Student Assessment System to evaluate learners on periodic basis at every level and to mould the best out of them.	
 
 
-Scope:
+## Scope:
 
 1) Student Assessment System helps to assist the enterprise i.e administrators,teachers,students and support staff, to reach their acacdemic and behavioral benchmarks and goals, maintain the academic performance of students and help to gauge them based on details.
 
@@ -18,7 +20,7 @@ Scope:
 
 4)Students can view their performance and with the help of staff, they will be instilled with intrinsic motivation to learn.
 
-Functional Requirements:
+## Functional Requirements:
 
 Users:
 
@@ -76,7 +78,7 @@ Users:
 		3. The architecture of whole system is made easy so that any student can login and use functions.
 	
 
-Non functional Requirements--
+## Non functional Requirements--
 
 1. Performance
 The Student Assessment System shall be built upon the web development technique and put on the web server online. The system and the server must be capable of handling the real- time error functionality occurs by the defined users. In addition, the system must be safety critical. All failures reported by the server side must be handled instantaneously to allow for user and system safety.
